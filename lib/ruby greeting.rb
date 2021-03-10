@@ -1,9 +1,3 @@
-def greeting
-  puts "Hello World"
-end
+$ ruby greeting.rb
 
-greeting
-greeting
-greeting
-greeting
-greeting
+
